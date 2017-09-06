@@ -1,3 +1,4 @@
 Name: Laura
 Age: 26
 Favorite Color: Turquoise
+Birthdate: June 13th 1991
